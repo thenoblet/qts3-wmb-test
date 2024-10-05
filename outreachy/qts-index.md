@@ -1,7 +1,14 @@
 
 # QuickStatements 3.0 Homepage Documentation
 
-![QuickStatements 3.0 Homepage](https://github.com/user-attachments/assets/461c6cf4-c92f-4529-b2bd-a29fa08fd6ca)
+
+### Figure 1: QuickStatements 3.0 Homepage &#x21D3;
+![QuickStatements 3.0 Homepage](https://github.com/user-attachments/assets/461c6cf4-c92f-4529-b2bd-a29fa08fd6ca)  
+**Figure 1 key:**
+- **(1)**: Navigation Menu
+- **(2)**: Login 
+- **(3)**: New Batch Button
+- **(4)**: Batch Lookup Section (Lookup by BatchID or Username)
 
 ## Overview
 

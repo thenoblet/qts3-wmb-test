@@ -91,6 +91,6 @@ The **QuickStatements 3.0** homepage provides a simple yet powerful interface fo
 
 Whether you are starting a new batch or reviewing your latest edits, QuickStatements 3.0 offers the tools to make your editing process simpler and efficiennt, contributing to Wikidata’s vast pool of knowledge with ease.
 
-For a more comprehensive overview of usage, features, and community support for QuickStatements, **[READ MORE here](https://meta.wikimedia.org/wiki/QuickStatements)**. You can also refer to the **[Wikidata Help page on QuickStatements](https://www.wikidata.org/wiki/Help:QuickStatements)** for additional guidance and support.
+For a more comprehensive overview of usage, features, and community support for QuickStatements, **[READ MORE here](https://meta.wikimedia.org/wiki/QuickStatements)**. You can also refer to the **[Wikidata Help page on QuickStatements](https://www.wikidata.org/wiki/Help:QuickStatements)** for the QuickStatements manual, additional guidance and support.
 
 ---

@@ -10,6 +10,8 @@
 - **(3)**: New Batch Button
 - **(4)**: Batch Lookup Section (Lookup by BatchID or Username)
 
+---
+
 ## Overview
 
 ### What is QuickStatements?
@@ -18,7 +20,7 @@ QuickStatements is a web-based tool designed primarily for users of Wikidata, a 
 
 The **QuickStatements 3.0** homepage offers users a streamlined interface to manage and track batch edits efficiently. This documentation outlines each feature available on the homepage, what they do, and how users can interact with them to make their editing workflow smoother.
 
-## Features Overview
+## Features Description and Usage
 
 1. **Navigation Menu**:  
    Located at the top of the page, the navigation menu includes:
@@ -42,46 +44,26 @@ The **QuickStatements 3.0** homepage offers users a streamlined interface to man
      - **Batch ID**:  
        - Function: Users can enter the unique identifier (Batch ID) for a specific batch of edits. This allows them to locate and view the details of that batch.
        - Action Button: **See batch details**. Clicking this button will retrieve the batch associated with the entered Batch ID and display the details.
+      
+         ---
+         
+       - **How to Use**:
+       1. Enter the Batch ID into the text input field labeled **Batch ID**.
+       2. Click the green **See batch details** button.
+       3. The batch’s details will be displayed, including information about its status, changes made, and any other relevant metadata.
+          
+   ---
    
      - **Username**:  
        - Function: Users can enter a Wikidata username to see all batches associated with that user. This is helpful for tracking a user’s contributions or for administrators to monitor activity.
        - Action Button: **See batches by user**. Clicking this button will display all the batch edits related to the entered username.
-
----
-
-## Detailed Feature Descriptions
-
-### Navigation Menu
-
-- **QuickStatements 3.0**:
-  - Clicking the **QuickStatements 3.0** title will redirect you back to the homepage from any other page within the tool.
-  
-- **New Batch**:
-  - This option is available both in the navigation bar and as a central button on the homepage. When clicked, it allows users to create a new batch of edits for Wikidata. In this section, users can specify their actions, such as adding, editing, or removing data in bulk.
-
-- **Last Batches**:
-  - By selecting **Last Batches**, users can view a list of their most recently processed or active batches. This history helps users track their previous edits, making it easier to pick up where they left off or review recent changes.
-
-- **Git**:
-  - The **Git** link opens the source code repository of QuickStatements. This is useful for developers who want to contribute to the tool, review version history, or better understand its technical implementation.
-
-### Batch Management
-
-#### Batch ID Lookup
-
-- **Purpose**: Allows users to retrieve details about a specific batch by entering its unique identifier (Batch ID).
-- **How to Use**:
-  1. Enter the Batch ID into the text input field labeled **Batch ID**.
-  2. Click the green **See batch details** button.
-  3. The batch’s details will be displayed, including information about its status, changes made, and any other relevant metadata.
-
-#### Username Batch Lookup
-
-- **Purpose**: Enables users to search for all batch edits associated with a specific Wikidata user.
-- **How to Use**:
-  1. Enter the Wikidata username into the **Username** input field
-  2. Click the green **See batches by user** button.
-  3. A list of batches associated with the entered username will be displayed, allowing users to view the contributions of that user.
+         
+         ---
+         
+       - **How to Use**:
+       1. Enter the Wikidata username into the **Username** input field
+       2. Click the green **See batches by user** button.
+       3. A list of batches associated with the entered username will be displayed, allowing users to view the contributions of that user.
 
 ---
 

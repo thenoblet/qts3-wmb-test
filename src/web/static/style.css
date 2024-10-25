@@ -1,0 +1,12 @@
+/* static/style.css */
+a[role="button"], button, input[type="submit"] {
+    background-color: rgb(0, 123, 255) !important;
+    color: white !important;
+    border: none !important;
+    cursor: pointer !important;
+}
+
+/* Let's have some fun, green on hover. Yeah! */
+a[role="button"]:hover, button:hover, input[type="submit"]:hover {
+    background-color: rgb(0, 139, 32) !important;
+}

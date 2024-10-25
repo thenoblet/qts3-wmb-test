@@ -18,7 +18,7 @@
 
 QuickStatements is a web-based tool designed primarily for users of Wikidata, a free and open knowledge base that allows users to create and edit structured data. The tool is especially useful for batch editing, which enables users to make multiple changes or add numerous items quickly, rather than manually editing each entry one at a time. 
 
-The **QuickStatements 3.0** homepage offers users a streamlined interface to manage and track batch edits efficiently. This documentation outlines each feature available on the homepage, what they do, and how users can interact with them to make their editing workflow smoother.
+The **QuickStatements 3.0** homepage offers users an interface to manage and track batch edits efficiently. This documentation outlines each feature available on the homepage, what they do, and how users can interact with them to make their editing workflow smoother.
 
 ## Features Description and Usage
 
